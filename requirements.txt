@@ -1,0 +1,6 @@
+pytest
+numpy
+networkx
+termcolor
+aigyminsper
+
