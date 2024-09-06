@@ -1,5 +1,8 @@
 __pycache__/
 .pytest_cache/
 .vscode/
+src/Map.py
+src/U2.py
+src/VacuumWorldGeneric.py
 
 
